@@ -1,6 +1,6 @@
-package factory;
+package FactoryMethod;
 
-public class MainFactory {
+public class MainFactoryMethod {
     private static Transport transport;
     public static void main(String[] args) {
         configure(args[0]);

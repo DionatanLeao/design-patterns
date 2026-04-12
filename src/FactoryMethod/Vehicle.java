@@ -1,4 +1,4 @@
-package factory;
+package FactoryMethod;
 
 public interface Vehicle {
     void startRote();

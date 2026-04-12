@@ -1,4 +1,4 @@
-package factory;
+package FactoryMethod;
 
 public class Car implements Vehicle {
     @Override

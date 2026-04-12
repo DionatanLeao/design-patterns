@@ -1,4 +1,4 @@
-package factory;
+package FactoryMethod;
 
 public abstract class Transport {
     void startTransport() {
