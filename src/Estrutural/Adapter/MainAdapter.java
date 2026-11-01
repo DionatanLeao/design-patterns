@@ -11,7 +11,7 @@ public class MainAdapter {
         payment.paypalPayment();
         payment.paypalReceive();
 
-        System.out.println("_______________________________________________________________");
+        System.out.println("____________________________________________________________");
 
         PayPal payPal = new PayPal();
         payPal.paypalPayment();
